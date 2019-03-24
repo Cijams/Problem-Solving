@@ -1,3 +1,3 @@
-﻿  pch.cpp
-  ConsoleApplication1.cpp
-  ConsoleApplication1.vcxproj -> C:\Users\Chris\Documents\GitHub\Problem-Solving\C++\ConsoleApplication1\Debug\ConsoleApplication1.exe
+﻿  StringCompression.cpp
+c:\users\a09\documents\github\problem-solving\c++\consoleapplication1\consoleapplication1\stringcompression.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\A09\Documents\GitHub\Problem-Solving\C++\ConsoleApplication1\Debug\ConsoleApplication1.exe
